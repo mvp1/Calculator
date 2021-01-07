@@ -1,1 +1,1 @@
-This file contains functionality code of division.
+This file contains functionality of division.
