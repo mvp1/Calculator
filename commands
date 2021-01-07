@@ -1,0 +1,34 @@
+
+----create branch ----
+git checkout -b <NewBranchName>
+git branch <NewBranchName>
+
+
+--delete branch---
+git branch -d <branchName>
+
+--switch branch---
+git checkout <BranchName>
+
+
+---push new branch on remote---
+git push origin <localBranchName>:<reoteBranchName>
+
+
+=================================
+u develope
+resolve the bug for int env.
+
+Ticket number      XE-1479
+
+
+---set name & email ---------
+git config --global user.name "your name id"
+git config --global user.email "personal email id"
+
+----to list /confirm----
+git config user.name
+git config user.email
+
+
+
